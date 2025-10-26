@@ -20,8 +20,8 @@ body {
 
 section {
   position: relative;
-  width: 100vw;
-  height: 100svh;
+  width: 100dvw;
+  height: 100dvh;
   background-color: var(--bg);
   color: var(--fg-100);
   overflow: hidden;
